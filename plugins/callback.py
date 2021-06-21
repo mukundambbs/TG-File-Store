@@ -30,7 +30,7 @@ async def help_cb(c, m):
 
 **How to enable uploader details in caption**
 
-★ Use /mode command to change and also you can use /mode channel_id to control caption in channel.
+★ Use /mode command to change and also you can use `/mode channel_id` to control caption for channel msg.
 """
 
     # creating buttons
